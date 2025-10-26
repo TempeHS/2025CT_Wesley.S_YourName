@@ -1,10 +1,10 @@
-# Project Title
+# 2025CT_Wesley.S_FlappyDragon
 
 Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+My Game "Flappy Dragon" is a fan made replica of the popular mobile game 'Flappy Bird' except my bird is a dragon
 
 ## Getting Started
 
